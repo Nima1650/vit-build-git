@@ -1,19 +1,19 @@
 import "../css/main.css";
-import {menu , logo , butnbut ,butnbut1 } from "./menu/menu.js";
-import {slaider , parent , divch3 , parent2 } from "./slaider/slaider.js";
+import {menu , logo , butnbut ,butnbut1 } from "menu/menu.js";
+import {slaider , parent , divch3 , parent2 } from "slaider/slaider.js";
 import {mahboob , docme , tasvir ,handleDocmeClicks , forimg , mtnfilm , hp ,stori,logofilim, v1, cover2 ,part1
      ,v,cover3,part, v2, cover4 , part4, v5, cover5 , part5,v6 , cover6, part6,v7 , cover7, part7,v8,cover8,part8
-    ,v9 , cover9, part9,} from "./pupuler/pupuler.js";
+    ,v9 , cover9, part9,} from "pupuler/pupuler.js";
     
-    import {one, photo,laptop,ti ,mobile, ti1 , consol,ti3, buy1} from "./buy/buy.js";
-    import {tamasha2,theree,laptopp, tii, mobilee, tii1, buuy1, tasvirtamasha} from "./howwhatch/howwhatch.js";
-    import {frees22,wra} from "./freemohtava/mohtava.js";
-    import {girl,donia,koodak} from "./children/chidren.js";
-    import {cinama, ekran, red , twos , zood} from "./online/online.js";
-    import {member,all} from "./comment/comment.js";
-    import {renderAccordion} from "./ask/ask.js";
+    import {one, photo,laptop,ti ,mobile, ti1 , consol,ti3, buy1} from "buy/buy.js";
+    import {tamasha2,theree,laptopp, tii, mobilee, tii1, buuy1, tasvirtamasha} from "howwhatch/howwhatch.js";
+    import {frees22,wra} from "freemohtava/mohtava.js";
+    import {girl,donia,koodak} from "children/chidren.js";
+    import {cinama, ekran, red , twos , zood} from "online/online.js";
+    import {member,all} from "comment/comment.js";
+    import {renderAccordion} from "ask/ask.js";
     renderAccordion("accordion-container")
-    import {loadFooterMenu} from "./footer/footer.js";
+    import {loadFooterMenu} from "footer/footer.js";
 
     // import helper from "./helper/helper.js";
 
